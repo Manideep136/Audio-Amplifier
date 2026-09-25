@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Audio jack") (type "KiCad") (uri "${KIPRJMOD}/file/Audio jack") (options "") (descr ""))
+)
